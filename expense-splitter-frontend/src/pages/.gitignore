@@ -1,0 +1,12 @@
+# General
+.DS_Store
+
+# Backend Dependencies & Secrets
+expense-splitter-backend/node_modules
+expense-splitter-backend/config/config.env
+expense-splitter-backend/*.log
+
+# Frontend Dependencies & Build output
+expense-splitter-frontend/node_modules
+expense-splitter-frontend/build
+expense-splitter-frontend/.env.local
